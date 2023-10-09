@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francisdelgado
 - 👀 I’m interested in becoming a software debeloper and show my skils and projects to the world ...
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on evry project where I can learn and develope my skills .
+- 💞️ I’m looking to collaborate on every project where I can learn and develope my skills .
 - 📫 How to reach me on Instagram - Francis_Delgadoo, email - Francisdelgado383@gmail.com .
 
 <!---
